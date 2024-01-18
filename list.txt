@@ -1,0 +1,5 @@
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-compact-video-renderer:has([data-style="SHORTS"])
+m.youtube.com##ytm-video-with-context-renderer:has([data-style="SHORTS"])
+m.youtube.com##yt-tab-shape.yt-tab-shape-wiz[tab-title="Shorts"]
+m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
