@@ -1,3 +1,6 @@
+! Title: Youtube No-shorts (for Brave)
+! Version: 1.0.0
+
 m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##ytm-compact-video-renderer:has([data-style="SHORTS"])
 m.youtube.com##ytm-video-with-context-renderer:has([data-style="SHORTS"])
