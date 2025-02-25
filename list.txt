@@ -1,7 +1,9 @@
 ! Title: Youtube No-shorts (for Brave)
-! Version: 1.0.0
+! Description: A filter list to hide YouTube Shorts on Brave browser.
+! Version: 1.0.1
+! Last updated: 2025-02-25
 
-m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-rich-section-renderer
 m.youtube.com##ytm-compact-video-renderer:has([data-style="SHORTS"])
 m.youtube.com##ytm-video-with-context-renderer:has([data-style="SHORTS"])
 m.youtube.com##yt-tab-shape.yt-tab-shape-wiz[tab-title="Shorts"]
